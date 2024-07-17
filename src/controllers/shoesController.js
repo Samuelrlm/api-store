@@ -5,6 +5,7 @@ const listShoes = async (req, res) => {
 
     for (let i = 0; i < 15; i++) {
         tenisList.push({
+            id: i,
             nome: 'K-Swiss V8 - Masculino',
             preco_original: 200,
             preco_desconto: 100,
