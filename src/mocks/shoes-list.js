@@ -22,7 +22,7 @@ const listShoes = [
         referencia: '48210384',
         preco_original: 600,
         preco_desconto: 540,
-        imagem_url: 'https://images.tcdn.com.br/img/img_prod/873473/tenis_adidas_ultraboost_22_1525_1_f672f0049b10805b5097ba1122d03016.png',
+        imagem_url: 'https://cdn.awsli.com.br/600x450/1621/1621592/produto/178661445/fbaf991a78bc4896a3e9ad7800abcec6_9366-sugbwn-g7y1qcudzg.png',
         cores: ['#FF5733', '#C70039', '#900C3F', '#581845'],
         tamanhos: [40, 41, 42, 43, 44],
         backgrounds: ['#F0E68C', '#FFD700', '#FF6347', '#4682B4', '#D3D3D3']
@@ -36,7 +36,7 @@ const listShoes = [
         referencia: '57382014',
         preco_original: 350,
         preco_desconto: 315,
-        imagem_url: 'https://static.ativaesportes.com.br/public/ativaesportes/imagens/produtos/tenis-puma-flyer-runner-bdp-masculino-195060-12-6526d700cad93.png',
+        imagem_url: 'https://cdnv2.moovin.com.br/santaclara/imagens/produtos/det/tenis-puma-flyer-runner-bdp-1950600237-824cd043841d6c0e9fb37a72304af3d9.png',
         cores: ['#4B0082', '#800080', '#FF00FF', '#FF1493'],
         tamanhos: [38, 39, 40, 41, 42],
         backgrounds: ['#8A2BE2', '#7FFF00', '#D2691E', '#FF4500', '#2E8B57']
@@ -50,7 +50,7 @@ const listShoes = [
         referencia: '64829103',
         preco_original: 700,
         preco_desconto: 630,
-        imagem_url: 'https://static.ativaesportes.com.br/public/ativaesportes/imagens/produtos/tenis-puma-flyer-runner-bdp-masculino-195060-12-6526d700cad93.png',
+        imagem_url: 'https://acdn.mitiendanube.com/stores/001/038/770/products/1011b189_750-png-accaae1be5b9a497fe17186329457606-1024-1024.png',
         cores: ['#00FF00', '#ADFF2F', '#32CD32', '#7FFF00'],
         tamanhos: [41, 42, 43, 44, 45],
         backgrounds: ['#98FB98', '#00FA9A', '#00FF7F', '#2E8B57', '#3CB371']
@@ -64,7 +64,7 @@ const listShoes = [
         referencia: '75849261',
         preco_original: 800,
         preco_desconto: 720,
-        imagem_url: 'https://d3qoj2c6mu9s8x.cloudfront.net/Custom/Content/Products/79/46/7946237_tenis-mizuno-wave-prophecy-x-preto-masculino_z3_637626455364177897.png',
+        imagem_url: 'https://blog.wtennis.com.br/wp-content/uploads/2021/04/mizuno-wave-prophecy-X.png',
         cores: ['#FFD700', '#FFA500', '#FF8C00', '#FF4500'],
         tamanhos: [40, 41, 42, 43, 44],
         backgrounds: ['#FFD700', '#FFA500', '#FF8C00', '#FF4500', '#DAA520']
@@ -78,7 +78,7 @@ const listShoes = [
         referencia: '29485721',
         preco_original: 500,
         preco_desconto: 450,
-        imagem_url: 'https://d1ubrw5u7b0xq6.cloudfront.net/Custom/Content/Products/76/61/7661_new-balance-574ml574vm2_s1_637776787859229916.png',
+        imagem_url: 'https://cdnv2.moovin.com.br/genko/imagens/produtos/det/tenis-new-balance-574-v2-ml574-gac-aec2e1870e0473423434b1324dc8b748.png',
         cores: ['#0000FF', '#000080', '#4169E1', '#6495ED'],
         tamanhos: [38, 39, 40, 41, 42],
         backgrounds: ['#87CEEB', '#4682B4', '#1E90FF', '#00BFFF', '#5F9EA0']
@@ -92,7 +92,7 @@ const listShoes = [
         referencia: '84920175',
         preco_original: 400,
         preco_desconto: 360,
-        imagem_url: 'https://images.tcdn.com.br/img/img_prod/1009791/reebok_nano_x1_especial_1061_5_c9c362c2814e149054c739e9eeadb856.png',
+        imagem_url: 'https://cdn11.bigcommerce.com/s-azs446wiic/images/stencil/1280x1280/products/587/7407/o6wgvlrtcm8bugygtcma__12018.1688136695.png?c=2',
         cores: ['#A52A2A', '#B22222', '#DC143C', '#FF0000'],
         tamanhos: [39, 40, 41, 42, 43],
         backgrounds: ['#FA8072', '#E9967A', '#F08080', '#CD5C5C', '#8B0000']
@@ -106,7 +106,7 @@ const listShoes = [
         referencia: '39857241',
         preco_original: 450,
         preco_desconto: 405,
-        imagem_url: 'https://images.novelship.com/product/under_armour_charged_commit_tr_3__black_varsity_bl_0_87071.png?fit=fill&bg=FFFFFF&trim=color&auto=format,compress&q=75&h=400',
+        imagem_url: 'https://underarmourcol.vtexassets.com/arquivos/ids/528917/3023703-006_N11_1.png?v=638120963541900000',
         cores: ['#FF69B4', '#FF1493', '#DB7093', '#C71585'],
         tamanhos: [40, 41, 42, 43, 44],
         backgrounds: ['#FFC0CB', '#FFB6C1', '#FF69B4', '#FF1493', '#DB7093']
@@ -134,7 +134,7 @@ const listShoes = [
         referencia: '84716293',
         preco_original: 300,
         preco_desconto: 270,
-        imagem_url: 'https://images.tcdn.com.br/img/img_prod/473150/tenis_vans_old_skool_preto_branco_1150_1_b0645033b74bcfe512ea82102deeb104.png',
+        imagem_url: 'https://adaptive-images.uooucdn.com.br/tr:w-1100,h-1594,c-at_max,pr-true,q-80/a22343-ogxys3ltwt0/pv/9d/b0/91/c8a60453ee47f940369c346f58.png',
         cores: ['#000000', '#2F4F4F', '#696969', '#808080'],
         tamanhos: [39, 40, 41, 42, 43],
         backgrounds: ['#000000', '#2F4F4F', '#696969', '#808080', '#A9A9A9']
@@ -148,7 +148,7 @@ const listShoes = [
         referencia: '57483920',
         preco_original: 320,
         preco_desconto: 288,
-        imagem_url: 'https://adaptive-images.uooucdn.com.br/tr:w-1100,h-1594,c-at_max,pr-true,q-90/a152-ofyzta/pv/8a/5b/cf/6ea02fe2c355dc3ee695f6d15a.png',
+        imagem_url: 'https://i5.walmartimages.com/seo/Fila-Disruptor-Ii-X-Ray-Tracer-Mens-Shoes-Size-8-5-Color-White-Navy-Red_1bff748c-0484-46f4-8704-40e7903d4f3c.c5d183ef32beed4d9ad05edf3f248eb2.png',
         cores: ['#FF0000', '#B22222', '#8B0000', '#FF6347'],
         tamanhos: [38, 39, 40, 41, 42],
         backgrounds: ['#FF4500', '#FF6347', '#FF7F50', '#FFA07A', '#CD5C5C']
