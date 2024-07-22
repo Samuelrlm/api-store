@@ -59,7 +59,20 @@ const listShoesColors = async (req, res) => {
 
 };
 
+const shoeById = async (req, res) => {
+    const { id } = req.params;
+
+    const tenis = listaTenis.find((tenis) => tenis.id === Number(id));
+
+    if (!tenis) {
+        return res.status(404).json({ message: 'Tênis não encontrado' });
+    }
+
+    res.json(tenis);
+}
+
 module.exports = {
     listShoes,
-    listShoesColors
+    listShoesColors,
+    shoeById
 };

@@ -162,7 +162,7 @@ const listShoes = [
         referencia: '10294765',
         preco_original: 380,
         preco_desconto: 342,
-        imagem_url: 'https://cdn.dooca.store/432/products/tenis-feminino-esportivo-skechers-124817-4_640x640+fill_ffffff.png?v=1712000493&webp=0',
+        imagem_url: 'https://17889.cdn.simplo7.net/static/17889/sku/mulheres-tenis-tenis-skechers-124206-go-walk-5-dreamy-com-solado-ultra-go--p-1699387855932.png',
         cores: ['#FFD700', '#DAA520', '#B8860B', '#FF8C00'],
         tamanhos: [39, 40, 41, 42, 43],
         backgrounds: ['#FFD700', '#DAA520', '#B8860B', '#FF8C00', '#FFA500']

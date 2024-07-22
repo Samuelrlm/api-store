@@ -7,6 +7,7 @@ router.get('/', (req, res) => {
 });
 router.get('/shoes', shoesController.listShoes);
 router.get('/shoes-colors', shoesController.listShoesColors);
+router.get('/shoe/:id', shoesController.shoeById);
 
 
 module.exports = router;
